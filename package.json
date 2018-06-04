@@ -26,7 +26,7 @@
   "devDependencies": {
     "chai": "^4.0.2",
     "fbp-spec": "^0.5.2",
-    "grunt": "^1.0.1",
+    "grunt": "1.0.2",
     "grunt-mocha-test": "^0.13.2",
     "grunt-yamllint": "^0.3.0",
     "mocha": "^5.0.0"
